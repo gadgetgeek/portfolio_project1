@@ -3,18 +3,18 @@
       "name": "project 1",
       "live": "https://seir-penguin-project-1-gadgetgeek.vercel.app/",
       "git": "https://github.com/gadgetgeek/seir_penguin_project_1",
-      "image": "https://share.icloud.com/photos/0bwnpbqp3p66QcQZyKZ-sHjEw"
+      "image": "https://res.cloudinary.com/drn9vgxqa/image/upload/v1636495442/Screen_Shot_2021-11-09_at_11.32.20_AM_egrs6e.png"
     },
       {
         "name": "project 2",
         "live": "https://ba-penguin-superfruits.herokuapp.com/",
         "git": "https://github.com/gadgetgeek/penguin_superfruit",
-        "image": "https://share.icloud.com/photos/0x0EQ4JgilAtX6pujw2H33pmw"
+        "image": "https://res.cloudinary.com/drn9vgxqa/image/upload/v1636495431/Screen_Shot_2021-11-09_at_11.34.50_AM_b3rxho.png"
       },
     {
       "name": "project 3",
       "live": "https://ba-penguin-newproject2.herokuapp.com/list",
       "git": "https://github.com/gadgetgeek/penguin_project2",
-      "image": "https://share.icloud.com/photos/01JUfFq-JtNvTvemYrqAuUXag"
+      "image": "https://res.cloudinary.com/drn9vgxqa/image/upload/v1636495418/Screen_Shot_2021-11-09_at_11.36.26_AM_w4a3on.png"
     }
   ]
