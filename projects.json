@@ -1,0 +1,20 @@
+[
+    {
+      "name": "project 1",
+      "live": "https://seir-penguin-project-1-gadgetgeek.vercel.app/",
+      "git": "https://github.com/gadgetgeek/seir_penguin_project_1",
+      "image": "https://share.icloud.com/photos/0bwnpbqp3p66QcQZyKZ-sHjEw"
+    },
+      {
+        "name": "project 2",
+        "live": "https://ba-penguin-superfruits.herokuapp.com/",
+        "git": "https://github.com/gadgetgeek/penguin_superfruit",
+        "image": "https://share.icloud.com/photos/0x0EQ4JgilAtX6pujw2H33pmw"
+      },
+    {
+      "name": "project 3",
+      "live": "https://ba-penguin-newproject2.herokuapp.com/list",
+      "git": "https://github.com/gadgetgeek/penguin_project2",
+      "image": "https://share.icloud.com/photos/01JUfFq-JtNvTvemYrqAuUXag"
+    }
+  ]
